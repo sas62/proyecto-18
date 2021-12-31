@@ -1,2 +1,1 @@
-# proyecto-18
-proyecto-18 ByJus
+# plantilla-del-proyecto-corta-tus-frutas
